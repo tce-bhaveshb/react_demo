@@ -15,6 +15,8 @@ function App() {
   );
 }
 
+// This is main file
+
 const AppStyle = {
   background: `url(${BackgroundImage})`
 }
