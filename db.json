@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "inquiries": [
+    {
+      "name": "bhavesh",
+      "email": "gmail",
+      "id": 1
+    },
+    {
+      "name": "ankita",
+      "email": "a@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "bhavna",
+      "email": "b@yahoo.com",
+      "id": 3
+    },
+    {
+      "name": "name",
+      "email": "email@gmail",
+      "id": 4
+    },
+    {
+      "name": "Ravish",
+      "email": "ravish@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "email": "gmail",
+      "id": 6
+    }
+  ]
+}

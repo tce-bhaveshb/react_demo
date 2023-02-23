@@ -1,0 +1,30 @@
+.bigblue {
+    color: DodgerBlue;
+    padding: 10px;
+    font-family: Sans-Serif;
+    text-align: center;
+    font-size: 32px;
+}
+
+.mybody {
+    background-color: #585d67;
+    color: white;
+    padding: 30px;
+    font-family: Sans-Serif;
+    text-align: center;
+}
+
+.myh1{
+    color: white;
+}
+
+.app {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
